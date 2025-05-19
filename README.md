@@ -8,7 +8,7 @@ Die API unterstützt CRUD-Operationen (Create, Read, Update, Delete) für:
 
 ---
 
-## Features
+## Eigenschaften
 
 - Erstellung und Verwaltung von mehreren Todo-Listen
 - Erstellung, Aktualisierung und Löschung von Todo-Einträgen
